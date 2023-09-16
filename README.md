@@ -1,12 +1,6 @@
 # HackMIT_2023
 
-# HackMIT React-Flask-Postgres Template
-
-This is a basic template with React, Flask, and Postgres!
-
-## Usage
-
-Clone this repository to get started!
+React, Flask, and Postgres!
 
 ## Installations and Startup
 
